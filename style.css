@@ -306,6 +306,12 @@ strong {
         left:70px;
     }
 
+        .explore-content h1{
+            width: 150%;
+        }
+        .explore-content p{
+            width: 175%;
+        }
     .explore-content .line {
        display: none;
        margin-bottom: 50px;
@@ -313,7 +319,7 @@ strong {
 
     p {
             text-align: justify;
-            width: 175%;
+            width: 200%;
             font-size: 12px;
             padding: 10px;
     }
@@ -334,7 +340,7 @@ strong {
         .content-col p {
             padding: 20px;
             text-align: center;
-            width: 175%;
+            width: 200%;
             position: relative;
             right: 150px;
             margin-bottom: 50px;
